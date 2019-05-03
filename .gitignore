@@ -6,6 +6,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Pp]ackages/
+/[Pp]rojectSettings/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -15,6 +17,8 @@
 
 # TextMesh Pro files
 [Aa]ssets/TextMesh*Pro/
+
+[Aa]ssets/Scenes/
 
 # Visual Studio cache directory
 .vs/
